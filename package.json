@@ -1,0 +1,13 @@
+{
+  "name": "get.dev.sh",
+  "version": "0.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "request": "~2.33.0",
+    "express": "~3.4.8"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "author": "Kenneth Auchenberg"
+}
